@@ -1,4 +1,4 @@
-# MA-Rank: Multi-Agent Resume Screening and Skill Mining System 
+# MA-Rank: Multi-Agent Resume Screening and Skill Mining System  
 
 **Arizona State University**
 
